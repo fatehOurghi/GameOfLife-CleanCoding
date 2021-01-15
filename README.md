@@ -11,5 +11,5 @@ This is a Netbeans swing GUI project, that implements several design patterns li
 ### Facade
 
 ## Class Diagram
-![image](gl life all Class diagram.png)
+![image](https://github.com/fatehOurghi/GameOfLife-CleanCoding/blob/master/gl%20life%20all%20Class%20diagram.png)
 
