@@ -10,3 +10,6 @@ This is a Netbeans swing GUI project, that implements several design patterns li
 ### Memento
 ### Facade
 
+## Class Diagram
+![image](/gl life all Class diagram.png)
+
