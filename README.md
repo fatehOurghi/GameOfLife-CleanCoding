@@ -5,6 +5,6 @@ This is a Netbeans swing GUI project, that implements several design patterns li
 ### Abstract Factory
 ### Observer
 ### Composite
-### Delgator
+### Delegator
 ### And other
 
