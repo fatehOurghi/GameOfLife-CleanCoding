@@ -6,5 +6,7 @@ This is a Netbeans swing GUI project, that implements several design patterns li
 ### Observer
 ### Composite
 ### Delegator
-### And other
+### Mediator
+### Memento
+### Facade
 
